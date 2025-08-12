@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Data-Science-vs.-Big-Data-vs.jpg" style="width: 100%; max-width: 100%;" />
+  <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Data-Science-vs.-Big-Data-vs.jpg" style="width: 50%; max-width: 50%;" />
 </p>
 
 
