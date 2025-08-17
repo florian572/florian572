@@ -10,10 +10,10 @@
 </h1>
 
 <p align="center">
-  🎓 Data Systems Architect <br/>
+  🎓 Finance <br/>
   🧠 Passionate about Machine Learning, Econometrics & Optimization <br/>
   🌍 Explorer of structured + unstructured data for real-world impact <br/>
-  💬 Always open to collaboration and learning new things!
+  💬 open to collaboration
 </p>
 
 <hr/>
