@@ -5,15 +5,14 @@
 
 <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=kuoant" />
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&pause=1000&color=F77122&center=true&vCenter=true&width=500&height=70&lines=Welcome!;I+am+Flo!;" />
-</h1>
+
+<h2 align="center">📘 About Me</h2>
 
 <p align="center">
-  🎓 Finance <br/>
+  🎓 Master Student in Finance <br/>
   🧠 Passionate about Machine Learning, Econometrics & Optimization <br/>
   🌍 Explorer of structured + unstructured data for real-world impact <br/>
-  💬 open to collaboration
+  💬 Open to Collaboration!
 </p>
 
 <hr/>
