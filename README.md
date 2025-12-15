@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/aaa4307b-3bf7-4204-b1f1-9449aeb2826b" style="width: 50%; max-width: 50%;" />
+  <img src="https://github.com/user-attachments/assets/aaa4307b-3bf7-4204-b1f1-9449aeb2826b" style="width: 100%; max-width: 100%;" />
 </p>
 
 <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=kuoant" />
