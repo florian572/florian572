@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/Data-Science-vs.-Big-Data-vs.jpg" style="width: 50%; max-width: 50%;" />
+  <img src="https://github.com/user-attachments/assets/aaa4307b-3bf7-4204-b1f1-9449aeb2826b" style="width: 50%; max-width: 50%;" />
 </p>
-
 
 <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=kuoant" />
 
